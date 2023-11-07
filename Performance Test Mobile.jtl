@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689040898511,507,Register Account,201,Created,Android 1-1,text,true,,576,1169,1,1,https://market-final-project.binaracademy.org/auth/register,507,0,58
+1689040899018,133,Login User,201,Created,Android 1-1,text,true,,539,578,1,1,https://market-final-project.binaracademy.org/auth/login,133,0,0
+1689040899151,855,Create Product,400,Bad Request,Android 1-1,text,false,Test failed: code expected to match /201/,324,786561,1,1,https://market-final-project.binaracademy.org/seller/product,855,0,0
+1689040900006,1792,GET Seller Product,200,OK,Android 1-1,text,true,,2610,480,1,1,https://market-final-project.binaracademy.org/seller/product,1792,0,0
+1689040901799,39,GET Seller Product by Id,200,OK,Android 1-1,text,true,,743,486,1,1,https://market-final-project.binaracademy.org/seller/product/72174,39,0,0
+1689040901838,11,Delete Product,500,Internal Server Error,Android 1-1,text,false,Test failed: code expected to contain /200/,309,525,1,1,https://market-final-project.binaracademy.org/seller/product/72174?id=64307,11,0,0
+1689040901849,78,Get Buyer Products,200,OK,Android 1-1,text,true,,747,541,1,1,https://market-final-project.binaracademy.org/buyer/product?status=available&category_id=10&search=ikan&page=1&per_page=1,78,0,0
+1689040901927,19,Get Buyer Product by Id,200,OK,Android 1-1,text,true,,1918,485,1,1,https://market-final-project.binaracademy.org/buyer/product/51905,19,0,0
+1689040901946,63,POST Buyer Order,400,Bad Request,Android 1-1,text,false,Test failed: code expected to contain /201/,335,553,1,1,https://market-final-project.binaracademy.org/buyer/order,63,0,0
+1689040902010,45,GET Buyer Order,200,OK,Android 1-1,text,true,,8102,477,1,1,https://market-final-project.binaracademy.org/buyer/order,45,0,0
+1689040902056,32,GET Buyer Order by Id,200,OK,Android 1-1,text,true,,1224,483,1,1,https://market-final-project.binaracademy.org/buyer/order/26594,32,0,0
+1689040902088,48,PUT Buyer Order by Id,200,OK,Android 1-1,text,true,,669,532,1,1,https://market-final-project.binaracademy.org/buyer/order/26593,48,0,0

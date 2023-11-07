@@ -1,0 +1,88 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689000732121,1193,Register Account,200,OK,Website 2-1,text,true,,1758,685,20,20,https://secondhand.binaracademy.org/users.json,1193,0,21
+1689000732175,1290,Register Account,200,OK,Website 2-2,text,true,,1759,685,20,20,https://secondhand.binaracademy.org/users.json,1290,0,14
+1689000732227,1607,Register Account,200,OK,Website 2-3,text,true,,1771,685,20,20,https://secondhand.binaracademy.org/users.json,1607,0,19
+1689000732282,1552,Register Account,200,OK,Website 2-4,text,true,,1751,685,20,20,https://secondhand.binaracademy.org/users.json,1552,0,16
+1689000732345,2000,Register Account,200,OK,Website 2-5,text,true,,1756,685,20,20,https://secondhand.binaracademy.org/users.json,2000,0,17
+1689000732438,2011,Register Account,200,OK,Website 2-7,text,true,,1755,685,20,20,https://secondhand.binaracademy.org/users.json,2011,0,19
+1689000732390,2081,Register Account,200,OK,Website 2-6,text,true,,1751,685,20,20,https://secondhand.binaracademy.org/users.json,2081,0,15
+1689000732486,2229,Register Account,200,OK,Website 2-8,text,true,,1763,685,20,20,https://secondhand.binaracademy.org/users.json,2229,0,17
+1689000732535,2218,Register Account,200,OK,Website 2-9,text,true,,1740,685,20,20,https://secondhand.binaracademy.org/users.json,2218,0,16
+1689000732641,2750,Register Account,200,OK,Website 2-11,text,true,,1764,685,20,20,https://secondhand.binaracademy.org/users.json,2750,0,16
+1689000732594,2888,Register Account,200,OK,Website 2-10,text,true,,1761,685,20,20,https://secondhand.binaracademy.org/users.json,2888,0,16
+1689000732681,3019,Register Account,200,OK,Website 2-12,text,true,,1750,685,20,20,https://secondhand.binaracademy.org/users.json,3019,0,22
+1689000732731,3638,Register Account,200,OK,Website 2-13,text,true,,1759,685,20,20,https://secondhand.binaracademy.org/users.json,3638,0,17
+1689000732782,3589,Register Account,200,OK,Website 2-14,text,true,,1767,685,20,20,https://secondhand.binaracademy.org/users.json,3589,0,23
+1689000732834,3660,Register Account,200,OK,Website 2-15,text,true,,1761,685,20,20,https://secondhand.binaracademy.org/users.json,3660,0,17
+1689000732883,3613,Register Account,200,OK,Website 2-16,text,true,,1752,684,20,20,https://secondhand.binaracademy.org/users.json,3613,0,19
+1689000732933,3619,Register Account,401,Unauthorized,Website 2-17,text,false,,623,685,20,20,https://secondhand.binaracademy.org/users.json,3619,0,17
+1689000733314,3275,Login User,200,OK,Website 2-1,text,true,,1754,1147,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3275,0,0
+1689000733465,3441,Login User,200,OK,Website 2-2,text,true,,1753,1143,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3441,0,0
+1689000733835,3276,Login User,200,OK,Website 2-4,text,true,,1763,1135,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3276,0,0
+1689000733835,3276,Login User,200,OK,Website 2-3,text,true,,1749,1155,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3276,0,0
+1689000733034,4283,Register Account,401,Unauthorized,Website 2-19,text,false,,623,685,20,20,https://secondhand.binaracademy.org/users.json,4283,0,23
+1689000734346,2970,Login User,200,OK,Website 2-5,text,true,,1759,1145,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2970,0,0
+1689000734449,2875,Login User,200,OK,Website 2-7,text,true,,1755,1139,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2875,0,0
+1689000734471,2877,Login User,200,OK,Website 2-6,text,true,,1757,1135,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2877,0,0
+1689000732983,4365,Register Account,200,OK,Website 2-18,text,true,,1755,685,20,20,https://secondhand.binaracademy.org/users.json,4365,0,18
+1689000734750,2626,Login User,200,OK,Website 2-8,text,true,,1771,1147,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2626,0,0
+1689000734753,2626,Login User,200,OK,Website 2-9,text,true,,1745,1129,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2626,0,0
+1689000733084,4373,Register Account,200,OK,Website 2-20,text,true,,1748,685,20,20,https://secondhand.binaracademy.org/users.json,4373,0,19
+1689000735482,2448,Login User,200,OK,Website 2-10,text,true,,1762,1145,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2448,0,0
+1689000735391,2539,Login User,200,OK,Website 2-11,text,true,,1757,1153,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2539,0,0
+1689000735700,2274,Login User,200,OK,Website 2-12,text,true,,1747,1139,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2274,0,0
+1689000736369,1633,Login User,200,OK,Website 2-13,text,true,,1761,1143,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1633,0,0
+1689000736494,1570,Login User,200,OK,Website 2-15,text,true,,1765,1145,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1570,0,0
+1689000736371,1694,Login User,200,OK,Website 2-14,text,true,,1755,1151,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1694,0,0
+1689000736496,1622,Login User,200,OK,Website 2-16,text,true,,1754,1137,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1622,0,0
+1689000736552,1584,Login User,200,OK,Website 2-17,text,true,,1865,674,20,20,https://secondhand.binaracademy.org/users/sign_in.json,1584,0,0
+1689000736590,2522,Update Profile,200,OK,Website 2-1,text,true,,1476,94372,20,20,https://secondhand.binaracademy.org/profiles.json,2522,0,0
+1689000737317,2092,Login User,200,OK,Website 2-19,text,true,,1885,674,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2092,0,0
+1689000736906,2566,Update Profile,200,OK,Website 2-2,text,true,,1494,94394,20,20,https://secondhand.binaracademy.org/profiles.json,2566,0,0
+1689000737348,2137,Login User,200,OK,Website 2-18,text,true,,1747,1139,20,20,https://secondhand.binaracademy.org/users/sign_in.json,2137,0,0
+1689000737111,2507,Update Profile,200,OK,Website 2-4,text,true,,1482,94411,20,20,https://secondhand.binaracademy.org/profiles.json,2507,0,0
+1689000737111,2868,Update Profile,200,OK,Website 2-3,text,true,,1484,94397,20,20,https://secondhand.binaracademy.org/profiles.json,2868,0,0
+1689000737317,3173,Update Profile,200,OK,Website 2-5,text,true,,1486,94428,20,20,https://secondhand.binaracademy.org/profiles.json,3173,0,0
+1689000737324,3166,Update Profile,200,OK,Website 2-7,text,true,,1478,94403,20,20,https://secondhand.binaracademy.org/profiles.json,3166,0,0
+1689000737348,3264,Update Profile,200,OK,Website 2-6,text,true,,1486,94398,20,20,https://secondhand.binaracademy.org/profiles.json,3264,0,0
+1689000737457,3236,Login User,200,OK,Website 2-20,text,true,,1753,1137,20,20,https://secondhand.binaracademy.org/users/sign_in.json,3236,0,0
+1689000737380,3420,Update Profile,200,OK,Website 2-9,text,true,,1472,94400,20,20,https://secondhand.binaracademy.org/profiles.json,3420,0,0
+1689000737377,4142,Update Profile,200,OK,Website 2-8,text,true,,1484,94433,20,20,https://secondhand.binaracademy.org/profiles.json,4142,0,0
+1689000737974,3892,Update Profile,200,OK,Website 2-12,text,true,,1476,94395,20,20,https://secondhand.binaracademy.org/profiles.json,3892,0,0
+1689000737930,3976,Update Profile,200,OK,Website 2-10,text,true,,1478,94408,20,20,https://secondhand.binaracademy.org/profiles.json,3976,0,0
+1689000737930,4113,Update Profile,200,OK,Website 2-11,text,true,,1486,94433,20,20,https://secondhand.binaracademy.org/profiles.json,4112,0,0
+1689000738002,4229,Update Profile,200,OK,Website 2-13,text,true,,1482,94374,20,20,https://secondhand.binaracademy.org/profiles.json,4229,0,0
+1689000738064,4780,Update Profile,200,OK,Website 2-15,text,true,,1488,94427,20,20,https://secondhand.binaracademy.org/profiles.json,4780,0,0
+1689000738066,4848,Update Profile,200,OK,Website 2-14,text,true,,1482,94410,20,20,https://secondhand.binaracademy.org/profiles.json,4848,0,0
+1689000739471,3681,Get Profile,200,OK,Website 2-2,text,true,,1480,1019,20,20,https://secondhand.binaracademy.org/profiles.json,3681,0,0
+1689000739112,4041,Get Profile,200,OK,Website 2-1,text,true,,1482,1001,20,20,https://secondhand.binaracademy.org/profiles.json,4041,0,0
+1689000738118,5036,Update Profile,200,OK,Website 2-16,text,true,,1487,94438,20,20,https://secondhand.binaracademy.org/profiles.json,5036,0,0
+1689000739617,3536,Get Profile,200,OK,Website 2-4,text,true,,1490,1007,20,20,https://secondhand.binaracademy.org/profiles.json,3536,0,0
+1689000739978,3175,Get Profile,200,OK,Website 2-3,text,true,,1488,1009,20,20,https://secondhand.binaracademy.org/profiles.json,3175,0,0
+1689000740490,2680,Get Profile,200,OK,Website 2-5,text,true,,1486,1011,20,20,https://secondhand.binaracademy.org/profiles.json,2680,0,0
+1689000740490,2691,Get Profile,200,OK,Website 2-7,text,true,,1488,1003,20,20,https://secondhand.binaracademy.org/profiles.json,2691,0,0
+1689000740611,2946,Get Profile,200,OK,Website 2-6,text,true,,1500,1011,20,20,https://secondhand.binaracademy.org/profiles.json,2946,0,0
+1689000738137,5469,Update Profile,200,OK,Website 2-17,text,true,,1388,94256,20,20,https://secondhand.binaracademy.org/profiles.json,5469,0,0
+1689000740799,3012,Get Profile,200,OK,Website 2-9,text,true,,1476,997,20,20,https://secondhand.binaracademy.org/profiles.json,3012,0,0
+1689000739409,4561,Update Profile,200,OK,Website 2-19,text,true,,1382,94318,20,20,https://secondhand.binaracademy.org/profiles.json,4561,0,0
+1689000739484,4505,Update Profile,200,OK,Website 2-18,text,true,,1474,94374,20,20,https://secondhand.binaracademy.org/profiles.json,4505,0,0
+1689000740692,3893,Update Profile,200,OK,Website 2-20,text,true,,1480,94380,20,20,https://secondhand.binaracademy.org/profiles.json,3893,0,0
+1689000741866,2720,Get Profile,200,OK,Website 2-12,text,true,,1476,1001,20,20,https://secondhand.binaracademy.org/profiles.json,2720,0,0
+1689000741519,3067,Get Profile,200,OK,Website 2-8,text,true,,1492,1009,20,20,https://secondhand.binaracademy.org/profiles.json,3067,0,0
+1689000742231,2356,Get Profile,200,OK,Website 2-13,text,true,,1488,1007,17,17,https://secondhand.binaracademy.org/profiles.json,2356,0,0
+1689000742042,2545,Get Profile,200,OK,Website 2-11,text,true,,1482,1011,17,17,https://secondhand.binaracademy.org/profiles.json,2545,0,0
+1689000741915,2672,Get Profile,200,OK,Website 2-10,text,true,,1480,1003,17,17,https://secondhand.binaracademy.org/profiles.json,2672,0,0
+1689000742844,1756,Get Profile,200,OK,Website 2-15,text,true,,1486,1013,14,14,https://secondhand.binaracademy.org/profiles.json,1755,0,0
+1689000742917,1691,Get Profile,200,OK,Website 2-14,text,true,,1482,1007,13,13,https://secondhand.binaracademy.org/profiles.json,1690,0,0
+1689000743153,2664,Get Category ,200,OK,Website 2-1,text,true,,1070,1009,12,12,https://secondhand.binaracademy.org/categories.json,2664,0,0
+1689000743153,2664,Get Category ,200,OK,Website 2-2,text,true,,1070,1007,12,12,https://secondhand.binaracademy.org/categories.json,2664,0,0
+1689000743153,2722,Get Category ,200,OK,Website 2-4,text,true,,1070,1017,10,10,https://secondhand.binaracademy.org/categories.json,2722,0,0
+1689000743153,2788,Get Profile,200,OK,Website 2-16,text,true,,1499,1013,9,9,https://secondhand.binaracademy.org/profiles.json,2788,0,0
+1689000743181,2811,Get Category ,200,OK,Website 2-7,text,true,,1070,1015,8,8,https://secondhand.binaracademy.org/categories.json,2811,0,0
+1689000743171,2815,Get Category ,200,OK,Website 2-5,text,true,,1070,1013,8,8,https://secondhand.binaracademy.org/categories.json,2815,0,0
+1689000743153,2802,Get Category ,200,OK,Website 2-3,text,true,,1070,1015,8,8,https://secondhand.binaracademy.org/categories.json,2802,0,0
+1689000743558,2492,Get Category ,200,OK,Website 2-6,text,true,,1070,1027,5,5,https://secondhand.binaracademy.org/categories.json,2492,0,0
+1689000743605,2474,Get Profile,200,OK,Website 2-17,text,true,,1384,899,4,4,https://secondhand.binaracademy.org/profiles.json,2474,0,0
+1689000743812,2283,Get Category ,200,OK,Website 2-9,text,true,,1070,1003,3,3,https://secondhand.binaracademy.org/categories.json,2283,0,0
+1689000743970,2158,Get Profile,200,OK,Website 2-19,text,true,,1390,893,2,2,https://secondhand.binaracademy.org/profiles.json,2158,0,0
+1689000743989,2184,Get Profile,200,OK,Website 2-18,text,true,,1478,999,1,1,https://secondhand.binaracademy.org/profiles.json,2184,0,0
